@@ -37,3 +37,6 @@
 *   Indeed：一个全球性的招聘搜索引擎 https://indeed.com
 
 最后，想问问你，有没有什么个人特别推荐的面试准备材料呢？
+->
+https://braydie.gitbooks.io/how-to-be-a-programmer/content/zh/index.html
+
